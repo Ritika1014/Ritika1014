@@ -1,200 +1,231 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050816,50:123C69,100:00B4D8&text=Ritika&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=59&descSize=17" width="100%" alt="Ritika's GitHub banner"/>
+  <!-- Aesthetic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f19,40:111827,70:0e7490,100:38bdf8&text=Ritika&fontColor=ffffff&fontSize=68&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Python%20Developer&descAlignY=60&descSize=18" width="100%" alt="Ritika's Banner" />
+
+  <!-- Animated Typing Subheader -->
+  <a href="https://github.com/Ritika1014">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%40+GNA+University+%F0%9F%8E%93;Deep+Learning+%26+Explainable+AI+(Grad-CAM%2C+SHAP)+%F0%9F%A7%A0;Exploring+Generative+AI+%26+Agentic+Workflows+%F0%9F%9A%80;Building+Practical%2C+Intelligent+Applications+%E2%9C%A8" alt="Typing Subtitle" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Social & Profile Links -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ritika-ritika-aienthusiastic/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ritika141006@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Ritika1014">
+      <img src="https://img.shields.io/badge/GitHub-Ritika1014-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Ritika1014&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Building+with+Python+and+Machine+Learning;Exploring+Deep+Learning+and+Explainable+AI;Working+Towards+Generative+AI+and+Agentic+AI" alt="Animated introduction"/>
+---
 
-<br/><br/>
+### 🌸 About Me
 
-<a href="https://www.linkedin.com/in/ritika-ritika-aienthusiastic/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="https://github.com/Ritika1014">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
-</a>
+```yaml
+name: Ritika
+education: B.Tech in Computer Science & Engineering (3rd Year)
+institution: GNA University
+core_focus:
+  - Deep Learning & Computer Vision (Custom CNNs, Transfer Learning)
+  - Explainable AI (Grad-CAM, SHAP Interpretability)
+  - Machine Learning & Multimodal Systems
+future_aspirations: Generative AI, AI Agents & Autonomous Workflows
+philosophy: "Learning the fundamentals • Building with purpose • Engineering intelligent systems"
+```
 
-</div>
+- 🎓 **Academics:** 3rd-year B.Tech CSE student passionate about bridging machine intelligence with real-world healthcare and utility tools.
+- 🔬 **Research & Projects:** Built custom CNNs and multimodal architectures for MRI brain tumor classification enriched with interpretability layers (Grad-CAM & SHAP).
+- 🛠️ **Full Pipeline:** From data wrangling, preprocessing, and statistical exploration to model deployment via Streamlit and desktop Tkinter applications.
+- 🌱 **Current Focus:** Deepening knowledge in neural network design, agentic AI frameworks, and end-to-end AI system workflows.
+- 🤝 **Open For:** AI/ML Internships, Research Collaborations, and Open Source Contributions.
 
 ---
 
-## 👋 About Me
-
-Hi, I'm **Ritika**, a third-year B.Tech Computer Science and Engineering student at **GNA University**, interested in Artificial Intelligence and Machine Learning.
-
-My GitHub reflects my journey from programming fundamentals and data analysis to machine learning, deep learning, and explainable AI. I enjoy learning by building, experimenting with different approaches, and understanding how models produce their results.
-
-I'm currently strengthening my foundations in ML and DL while working with Python-based projects. Looking ahead, I want to explore **Generative AI and Agentic AI** and learn how to build practical, intelligent applications.
-
-- 🎓 **Education:** B.Tech in Computer Science and Engineering
-- 💻 **Programming:** Python, Java, C#, C++
-- 🧠 **Technical interests:** Machine Learning, Deep Learning, Computer Vision
-- 🔬 **Project experience:** MRI-based brain tumor classification and explainable AI
-- 📊 **Foundations:** Data preprocessing, analysis, visualization, and classical AI
-- 🌱 **Future direction:** Generative AI and Agentic AI
-- 🤝 **Open to:** AI/ML internships, technical collaborations, and learning opportunities
-
-> *Learning the fundamentals. Building with purpose. Growing towards intelligent systems.*
-
----
-
-## 🛠️ Technologies & Tools
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### Programming Languages
+#### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c&theme=dark" alt="Languages" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp&theme=dark" alt="Python, Java, C sharp and C++"/>
+#### 🧠 Machine Learning & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,scipy,numpy,pandas,matplotlib&theme=dark" alt="ML & Data Stack" />
+</p>
 
-### Data Science & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow&theme=dark" alt="NumPy, Pandas, Scikit-learn and TensorFlow"/>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code and Visual Studio"/>
+#### 🧰 Frameworks, Platforms & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,anaconda&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" height="48" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" height="48" alt="Tkinter" />
+</p>
 
 </div>
 
-| Area | Technologies |
-|---|---|
-| **Programming** | Python, Java, C#, C++ |
-| **Data Analysis** | NumPy, Pandas |
-| **Visualization** | Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-learn |
-| **Deep Learning** | TensorFlow, Custom CNNs |
-| **Explainable AI** | Grad-CAM |
-| **Application Development** | Streamlit, Tkinter |
-| **Tools** | Git, GitHub, VS Code, Visual Studio |
+<br/>
 
-*Technologies listed reflect my learning and project experience. I'm continuing to expand my skills.*
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **Languages** | Python, Java, C#, C++, C, SQL |
+| **Deep Learning & Vision** | TensorFlow, Keras, Custom CNN Architecture, Medical Image Processing |
+| **Explainable AI (XAI)** | Grad-CAM (Heatmaps & Attention), SHAP (Feature Importance) |
+| **Data & ML** | Scikit-learn, NumPy, Pandas, SciPy, Matplotlib, Seaborn |
+| **Application & GUI** | Streamlit (Web Apps), Tkinter (Desktop GUI), REST APIs |
+| **Tools & Platforms** | Git, GitHub, VS Code, Visual Studio, Anaconda, Jupyter |
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Highlighted Projects
 
-### 01. 🧠 [MRI-Based Brain Tumor Detection Using Custom CNN](https://github.com/Ritika1014/Brain-Tumor-Detection-Using-MRI)
-
-A deep learning project focused on classifying brain MRI images into four categories: glioma, meningioma, pituitary tumor, and no tumor.
-
-The project combines a custom Convolutional Neural Network with Grad-CAM visualizations to help interpret which image regions influence model predictions.
-
-**Key components**
-- Custom CNN architecture using TensorFlow
-- Four-class MRI image classification
-- Grad-CAM-based visual explanations
-- Interactive Streamlit application
-
-**Tech stack:** Python · TensorFlow · CNN · Grad-CAM · Streamlit
-
----
-
-### 02. 🔬 [AI-Driven Brain Tumor Classification Using MRI & Gene Expression](https://github.com/Ritika1014/Research_Project)
-
-A separate research-oriented project exploring MRI-based tumor classification and gene expression-based molecular classification, with a proposed multimodal framework.
-
-The repository explores complementary approaches to medical image analysis and molecular data modelling, along with explainability techniques.
-
-**Key components**
-- MRI classification pipeline
-- Gene expression analysis and modelling
-- Grad-CAM for image explanations
-- SHAP for feature-level explanations
-- Exploration of multimodal integration
-
-**Tech stack:** Python · TensorFlow · Scikit-learn · Streamlit · Grad-CAM · SHAP
-
-*This is a research-oriented project; the presence of a multimodal framework should not be interpreted as proof of clinical validation.*
-
----
-
-### 03. 🤖 [Classical AI & Python Examples](https://github.com/Ritika1014/classical-ai-python-examples)
-
-A collection of small, standalone examples covering classical search algorithms and scientific Python tools. This repository reflects my work on understanding foundational algorithms and numerical computing.
-
-**Topics covered**
-- A* and AO* search
-- Breadth-first and depth-first search
-- Greedy best-first search
-- Hill climbing
-- NumPy, Pandas, SciPy, and Matplotlib
-- Introductory regression examples
-
-**Tech stack:** Python · NumPy · Pandas · SciPy · Matplotlib · Scikit-learn
-
----
-
-### 04. 😊 [Mood Detection System](https://github.com/Ritika1014/Mood_Detection_System)
-
-A Python desktop application that estimates mood and stress-related signals from text, displays sentiment scores, and saves analyses locally.
-
-This project gave me practical experience in combining text analysis with a simple graphical user interface.
-
-**Key components**
-- Text-based sentiment analysis
-- Desktop interface using Tkinter
-- Visualisation of sentiment scores
-- Local CSV-based record storage
-
-**Tech stack:** Python · Tkinter · TextBlob · Matplotlib · CSV
-
----
-
-### 05. 📊 [Data Visualization](https://github.com/Ritika1014/Data_Visualization)
-
-A collection of examples exploring how to communicate information through charts and plots using Python.
-
-**Topics covered:** Matplotlib · Pandas · NumPy · Time-series plotting
-
----
-
-## 📚 More on GitHub
-
-Alongside my featured projects, I maintain repositories for practising programming fundamentals and strengthening my technical foundation.
-
-| Repository | Focus |
-|---|---|
-| [Python Basics](https://github.com/Ritika1014/Python_Basics) | Core Python syntax and programming exercises |
-| [Java Fundamentals](https://github.com/Ritika1014/java-fundamentals) | Java programming concepts |
-| [Java Data Structures](https://github.com/Ritika1014/java-data-structures) | Data structure practice |
-| [Algorithms & Data Structures](https://github.com/Ritika1014/Algorithms_and_Data_Structures) | Fundamental algorithms and data manipulation |
-| [Titanic Dataset Preprocessing](https://github.com/Ritika1014/Data_Preprocessing_titanic_dataset) | Introductory data preprocessing |
-| [Unit Converter in C](https://github.com/Ritika1014/Unit-Converter-In-C) | Menu-driven console application |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 MRI Brain Tumor Classification</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Explainable_AI-Grad--CAM-00B4D8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deployment-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <p>
+        End-to-end deep learning framework classifying brain MRI scans into 4 classes (glioma, meningioma, pituitary, no tumor) paired with visual saliency heatmaps for model interpretability.
+      </p>
+      <ul>
+        <li>Custom CNN architecture engineered with TensorFlow</li>
+        <li>Grad-CAM visual explanation overlay on MRI slices</li>
+        <li>Interactive Streamlit dashboard for real-time inference</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ritika1014/Brain-Tumor-Detection-Using-MRI"><b>Explore Repository ➜</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔬 Multimodal Tumor & Gene Analysis</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Research-Multimodal-9C27B0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Interpretability-SHAP%20%2B%20Grad--CAM-009688?style=flat-square" />
+      </p>
+      <p>
+        Research project exploring complementary MRI imaging alongside gene expression molecular data for diagnostic classification and explainability.
+      </p>
+      <ul>
+        <li>Multimodal data exploration (imaging + genomics)</li>
+        <li>Dual explainability using SHAP and Grad-CAM</li>
+        <li>Comprehensive evaluation pipeline with Scikit-learn</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ritika1014/Research_Project"><b>Explore Repository ➜</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎭 Mood Detection System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-pink?style=flat-square" />
+      </p>
+      <p>
+        Desktop application estimating user mood and emotional signals from text input, tracking polarity and intensity with local storage.
+      </p>
+      <ul>
+        <li>Real-time text polarity & sentiment estimation</li>
+        <li>Clean, intuitive Tkinter desktop GUI</li>
+        <li>Privacy-conscious local CSV logging & history</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ritika1014/Mood_Detection_System"><b>Explore Repository ➜</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Classical AI & Algorithms Suite</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Search%20Algorithms-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/DSA-Data%20Science-green?style=flat-square" />
+      </p>
+      <p>
+        Extensive implementations of foundational search heuristics, numerical computation, and core algorithmic strategies.
+      </p>
+      <ul>
+        <li>A*, AO*, BFS, DFS, and Greedy Best-First searches</li>
+        <li>Heuristic optimization & Hill Climbing algorithms</li>
+        <li>Scientific Python demonstrations (NumPy, SciPy, Matplotlib)</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ritika1014/classical-ai-python-examples"><b>Explore Repository ➜</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Where I'm Heading
+### 📊 GitHub Activity & Statistics
 
-I'm interested in progressing from foundational ML and DL towards building more capable AI applications.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritika1014&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=00B4D8&text_color=e2e8f0" alt="Ritika's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritika1014&theme=tokyonight&hide_border=true&background=0b0f19&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Ritika's Streak Stats" width="49%" />
+</div>
 
-My longer-term interests include:
+<div align="center" style="margin-top: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika1014&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" width="46%" />
+</div>
 
-- **Machine Learning & Deep Learning:** Strengthening model development, evaluation, and practical implementation.
-- **Generative AI:** Learning how modern generative models work and how to use them in applications.
-- **Agentic AI:** Exploring AI agents, tool use, workflows, and systems that can complete multi-step tasks.
-- **Explainable AI:** Understanding model behaviour and making predictions easier to interpret.
-
-My goal is to build a solid technical foundation before moving towards more advanced AI systems.
+<br/>
 
 ---
 
-## 🤝 Let's Connect
+### 💭 Daily Developer Inspiration
 
-I'm happy to connect with fellow developers, students, researchers, and professionals working in AI and technology.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
+</div>
+
+<br/>
+
+---
+
+### 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ritika-ritika-aienthusiastic/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/>
-</a>
+<p align="center">
+  <b>Always eager to discuss Machine Learning, Explainable AI, research ideas, and tech innovation!</b>
+</p>
 
+<a href="https://www.linkedin.com/in/ritika-ritika-aienthusiastic/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ritika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ritika141006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ritika141006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ritika" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/Ritika1014">
-<img src="https://img.shields.io/badge/GitHub-Ritika1014-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Ritika1014-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00B4D8,50:123C69,100:050816" width="100%" alt="Blue gradient footer"/>
+<!-- Footer Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,40:0e7490,70:111827,100:0b0f19" width="100%" alt="Footer Gradient" />
+
+<p align="center">
+  <sub>Crafted with 💙 by <b>Ritika</b> • Keep building intelligent systems ✨</sub>
+</p>
 
 </div>
