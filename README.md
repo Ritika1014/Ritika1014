@@ -1,16 +1,14 @@
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080D1B,50:123C69,100:0891B2&text=Ritika&fontColor=FFFFFF&fontSize=64&fontAlignY=40&desc=Aspiring%20AI%20Engineer&descAlignY=62&descSize=19" width="100%" alt="Ritika — Aspiring AI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:071426,50:123B66,100:00D4FF&text=Ritika&fontColor=FFFFFF&fontSize=68&fontAlignY=42&desc=Aspiring%20AI%20Engineer%20%7C%20ML%20%7C%20Deep%20Learning&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="Ritika — Aspiring AI Engineer"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI+Projects+with+Python;Exploring+Machine+Learning+%26+Deep+Learning;Working+Towards+Generative+AI+%26+AI+Agents" alt="AI engineering journey"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ritika-ritika-aienthusiastic/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:ritika141006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0891B2?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ritika-ritika-aienthusiastic/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Ritika1014">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -18,97 +16,117 @@
 
 ## About Me
 
-I'm **Ritika**, a third-year B.Tech Computer Science and Engineering student at **GNA University**, working towards a career in Artificial Intelligence.
+I'm a third-year **B.Tech Computer Science and Engineering student at GNA University**, building my foundation in Artificial Intelligence and Machine Learning.
 
-My journey so far has involved Python programming, machine learning, deep learning, and building AI-based projects. I'm strengthening these foundations while moving towards my long-term goal: **building practical AI applications using Generative AI and Agentic AI.**
-
-- 🎓 B.Tech CSE student at GNA University
-- 🧠 Building foundations in ML, DL, and AI systems
-- 🔬 Hands-on experience with CNNs and explainable AI
-- 🚀 Career goal: Generative AI and Agentic AI engineering
-- 🤝 Interested in AI internships and technical collaborations
+- Interested in **AI, Machine Learning, and Deep Learning**
+- Exploring **Generative AI and Agentic AI**
+- Learning through hands-on projects and experimentation
+- Career goal: **Grow into an AI Engineer and contribute to practical AI solutions**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp&theme=dark" alt="Programming languages"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode&theme=dark" alt="Machine learning and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,tensorflow,sklearn,opencv,git,github,vscode&theme=dark&perline=5" alt="Technologies and tools"/>
 
 </div>
 
-**Languages:** Python, Java, C#, C++  
-**ML & Data:** TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn  
-**AI Projects:** CNNs, Computer Vision, Grad-CAM, SHAP  
-**Application Development:** Streamlit, Tkinter  
-**Tools:** Git, GitHub, VS Code
+**Core areas:** Python · Machine Learning · Deep Learning · Computer Vision · Data Analysis
 
 ---
 
 ## Featured Projects
 
-### 🧠 [MRI-Based Brain Tumor Detection](https://github.com/Ritika1014/Brain-Tumor-Detection-Using-MRI)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A deep learning project that classifies brain MRI images into four categories using a custom Convolutional Neural Network.
+### MRI Brain Tumor Detection
 
-- Custom CNN built with TensorFlow
-- Grad-CAM visualizations for model interpretability
-- Streamlit interface for interacting with predictions
+Deep learning project for classifying brain MRI scans into four categories using a custom CNN, with Grad-CAM explainability.
 
-**Tech:** Python · TensorFlow · CNN · Grad-CAM · Streamlit
+**Focus:** CNN · Medical Image Classification · Explainable AI · Streamlit
 
-### 🔬 [Brain Tumor Analysis: MRI & Gene Expression](https://github.com/Ritika1014/Research_Project)
+<a href="https://github.com/Ritika1014/Brain-Tumor-Detection-Using-MRI">View Repository →</a>
 
-A research-oriented project exploring brain tumor classification using MRI imaging and gene expression data, alongside explainability techniques.
+</td>
+<td width="50%" valign="top">
 
-- MRI classification and molecular data analysis
-- Exploration of multimodal AI approaches
-- Grad-CAM and SHAP for model interpretation
+### Brain Tumor Research Project
 
-**Tech:** Python · TensorFlow · Scikit-learn · Grad-CAM · SHAP
+Exploring computational approaches to brain tumor analysis involving MRI and gene-expression-related research.
 
-### 🤖 [Classical AI & Python Examples](https://github.com/Ritika1014/classical-ai-python-examples)
+**Focus:** AI for Healthcare · Research Exploration · Data Analysis
 
-A collection of implementations covering foundational AI search strategies and scientific Python examples.
+<a href="https://github.com/Ritika1014/Research_Project">View Repository →</a>
 
-- BFS, DFS, A*, AO*, and Greedy Best-First Search
-- Hill Climbing and heuristic search
-- Numerical computing and introductory ML examples
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** Python · NumPy · Pandas · SciPy · Scikit-learn
+### Mood Detection System
 
-### 🎭 [Mood Detection System](https://github.com/Ritika1014/Mood_Detection_System)
+A Python desktop application that analyzes text sentiment and presents mood-related results.
 
-A Python desktop application that analyses text sentiment and visualizes results through a graphical interface.
+**Focus:** Python · TextBlob · Tkinter · Matplotlib
 
-**Tech:** Python · Tkinter · TextBlob · Matplotlib
+<a href="https://github.com/Ritika1014/Mood_Detection_System">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Classical AI & Python
+
+A collection of Python implementations and practice projects exploring programming and classical AI concepts.
+
+**Focus:** Python · Problem Solving · AI Fundamentals
+
+<a href="https://github.com/Ritika1014/classical-ai-python-examples">View Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Direction
+## GitHub Statistics
 
-My focus is to build a strong foundation in machine learning and deep learning before progressing towards:
+<div align="center">
 
-- **Generative AI** — understanding and building applications powered by generative models.
-- **Agentic AI** — exploring AI agents, tool use, and multi-step workflows.
+<a href="https://github.com/Ritika1014">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritika1014&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ritika's GitHub statistics"/>
+</a>
+<a href="https://github.com/Ritika1014">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika1014&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used programming languages"/>
+</a>
 
-My goal is to move beyond experimenting with models and learn to build useful, reliable AI applications.
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Ritika1014&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritika1014&bg_color=1a1b27&color=70a5fd&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### Building my foundation. Exploring what's next. Creating with AI.
 
-<a href="https://www.linkedin.com/in/ritika-ritika-aienthusiastic/"><img src="https://img.shields.io/badge/LinkedIn-Ritika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Ritika on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ritika-ritika-aienthusiastic/">Let's connect on LinkedIn</a>
 
-<br/><br/>
-
-<sub>Learning continuously. Building thoughtfully. Growing into AI engineering. 💙</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:123B66,100:00D4FF" width="100%" alt=""/>
 
 </div>
