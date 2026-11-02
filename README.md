@@ -1,20 +1,16 @@
 <div align="center">
 
-# Ritika
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:0B1020,55:172554,100:312E81&text=Ritika&fontColor=F8FAFC&fontSize=54&fontAlignY=58&desc=Aspiring%20AI%20Engineer&descAlignY=82&descSize=17" alt="Ritika — aspiring AI engineer, on a dark navy-to-indigo gradient banner" width="100%">
 
-### AI / ML Engineer in Progress
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1600&color=67E8F9&center=true&vCenter=true&width=720&height=50&lines=Building+AI+foundations+through+projects;Exploring+Machine+Learning+and+Deep+Learning;Learning+about+Generative+AI+and+Agentic+AI" alt="Building AI foundations through projects; exploring machine learning and deep learning; learning about generative and agentic AI">
 
-**Computer Science & Engineering · GNA University**
-
-*Building with Machine Learning. Exploring Generative AI. Working towards Agentic AI.*
-
-<br>
+**Machine Learning** · **Deep Learning** 
 
 <a href="https://github.com/Ritika1014">
-  <img src="https://img.shields.io/badge/GitHub-Ritika1014-161B22?style=flat-square&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=%20&labelColor=172554&color=0B1020&style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/ritika-ritika-aienthusiastic/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=%20&labelColor=172554&color=0B1020&style=for-the-badge&logo=linkedin&logoColor=A5B4FC" alt="LinkedIn">
 </a>
 
 </div>
@@ -23,124 +19,78 @@
 
 ## About
 
-I'm a third-year B.Tech Computer Science and Engineering student with a growing interest in building practical AI applications.
+I'm a third-year B.Tech Computer Science and Engineering student building a foundation in Machine Learning and Deep Learning. I learn by applying concepts in projects, especially in computer vision and practical Python applications, and am gradually exploring Generative AI and Agentic AI.
 
-My current focus is strengthening my foundations in **Machine Learning, Deep Learning, and Computer Vision**, while gradually exploring **Generative AI and Agentic AI**.
+## Technical Focus
 
-I believe in learning by building, experimenting, and improving one project at a time.
+- **Developing in:** Machine Learning and Deep Learning fundamentals, CNNs, model evaluation, and Explainable AI
+- **Exploring:** Generative AI and Agentic AI
 
-## Technical Toolkit
+## Tools & Technologies
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0B1020?style=flat-square&logo=python&logoColor=67E8F9)
+![Java](https://img.shields.io/badge/Java-0B1020?style=flat-square&logo=openjdk&logoColor=A5B4FC)
+![C Sharp](https://img.shields.io/badge/C--Sharp-0B1020?style=flat-square&logo=csharp&logoColor=818CF8)
+![C++](https://img.shields.io/badge/C++-0B1020?style=flat-square&logo=cplusplus&logoColor=67E8F9)
 
 **AI & Data**
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-0F766E?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-475569?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1020?style=flat-square&logo=tensorflow&logoColor=67E8F9)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0B1020?style=flat-square&logo=scikitlearn&logoColor=A5B4FC)
+![NumPy](https://img.shields.io/badge/NumPy-0B1020?style=flat-square&logo=numpy&logoColor=818CF8)
+![Pandas](https://img.shields.io/badge/Pandas-0B1020?style=flat-square&logo=pandas&logoColor=67E8F9)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0B1020?style=flat-square&logoColor=A5B4FC)
+![Seaborn](https://img.shields.io/badge/Seaborn-0B1020?style=flat-square&logoColor=818CF8)
 
-**Tools**
+**Application & Development Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-0B1020?style=flat-square&logo=python&logoColor=67E8F9)
+![Streamlit](https://img.shields.io/badge/Streamlit-0B1020?style=flat-square&logo=streamlit&logoColor=A5B4FC)
+![TextBlob](https://img.shields.io/badge/TextBlob-0B1020?style=flat-square&logoColor=818CF8)
+![Git](https://img.shields.io/badge/Git-0B1020?style=flat-square&logo=git&logoColor=67E8F9)
+![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=flat-square&logo=github&logoColor=A5B4FC)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-0B1020?style=flat-square&logo=visualstudiocode&logoColor=818CF8)
+![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-0B1020?style=flat-square&logo=visualstudio&logoColor=67E8F9)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-0B1020?style=flat-square&logo=googlecolab&logoColor=A5B4FC)
 
----
+These are technologies I have studied or used in projects; listing them does not imply expert proficiency.
 
 ## Selected Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### MRI Brain Tumor Classification
 
-### 01 · MRI Brain Tumor Detection
+An MRI-only project exploring four-class brain tumor image classification with a custom CNN and Grad-CAM visualizations. The repository includes a Streamlit interface. This is an educational project, not a clinically validated diagnostic tool.
 
-Classifies brain MRI scans into four categories using a custom CNN, with Grad-CAM for visual explanations.
+**Technologies:** Python, TensorFlow, CNN, Grad-CAM, Streamlit  
+[View the repository](https://github.com/Ritika1014/Brain-Tumor-Detection-Using-MRI)
 
-**Tech:** Python · CNN · Grad-CAM · Streamlit
+### Brain Tumor Research Exploration
 
-[Explore project →](https://github.com/Ritika1014/Brain-Tumor-Detection-Using-MRI)
+A separate research repository exploring brain tumor analysis using MRI and gene-expression data. It includes a research report, notebooks, and project code; the profile does not claim independent validation of its results or clinical use.
 
-</td>
-<td width="50%" valign="top">
+**Focus:** Medical image analysis, gene-expression data, multimodal classification  
+[View the repository](https://github.com/Ritika1014/Research_Project)
 
-### 02 · Brain Tumor Research
+### Mood Detection System
 
-A research-oriented repository exploring computational approaches to brain tumor analysis involving MRI and gene-expression-related work.
+A Python desktop app that uses text sentiment analysis to display mood- and stress-related results, visualize sentiment values, and save entries to a local CSV file.
 
-**Focus:** AI for Healthcare · Research
+**Technologies:** Python, Tkinter, TextBlob, Matplotlib, CSV  
+[View the repository](https://github.com/Ritika1014/Mood_Detection_System)
 
-[Explore repository →](https://github.com/Ritika1014/Research_Project)
+## GitHub Activity
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritika1014&theme=tokyonight" alt="GitHub account statistics" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ritika1014&theme=tokyonight" alt="Languages represented in public repositories" width="49%">
+</p>
 
-### 03 · Mood Detection System
+The language card reflects public repository contents, not language proficiency.
 
-A desktop application that analyzes text sentiment and displays mood-related results.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritika1014&theme=tokyonight" alt="GitHub contribution activity and profile summary in a dark blue and violet theme" width="100%">
+</p>
 
-**Tech:** Python · TextBlob · Tkinter · Matplotlib
-
-[Explore project →](https://github.com/Ritika1014/Mood_Detection_System)
-
-</td>
-<td width="50%" valign="top">
-
-### 04 · Classical AI & Python
-
-Python implementations and practice projects focused on programming, problem-solving, and classical AI concepts.
-
-**Focus:** Python · AI Fundamentals
-
-[Explore repository →](https://github.com/Ritika1014/classical-ai-python-examples)
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Overview
-
-<div align="center">
-
-<a href="https://github.com/Ritika1014">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritika1014&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Ritika1014">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika1014&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=5" alt="Most-used languages"/>
-</a>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Ritika1014&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
-
-</div>
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritika1014&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Learning continuously. Building thoughtfully. Growing through AI.**
-
-[GitHub](https://github.com/Ritika1014) · [LinkedIn](https://www.linkedin.com/in/ritika-ritika-aienthusiastic/)
-
-</div>
+Statistics and the contribution grid are provided by external services and may occasionally be unavailable. For current activity, visit the [GitHub profile](https://github.com/Ritika1014).
